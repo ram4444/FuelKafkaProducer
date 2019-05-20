@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="FuelKafkaProducer_templa_main" target="1.8" />
+      <module name="FuelKafkaProducer_templa_test" target="1.8" />
+      <module name="spring_template_main" target="1.8" />
+      <module name="spring_template_test" target="1.8" />
+      <module name="springwebflux_template_main" target="1.8" />
+      <module name="springwebflux_template_test" target="1.8" />
+      <module name="springwebflux_testDL4J_main" target="1.8" />
+      <module name="springwebflux_testDL4J_test" target="1.8" />
+      <module name="test3_main" target="1.8" />
+      <module name="test3_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
